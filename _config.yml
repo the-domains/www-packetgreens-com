@@ -1,0 +1,14 @@
+layout_spectrum: 0.2867384
+typography_spectrum: 0.5125448
+color:
+  saturation: 0.3422939
+  lightness: 0.9157706
+  brandStrength: 0.4731183
+  brandColors:
+    - '#FFFFFF'
+    - '#0331BA'
+    - '#7BBC2C'
+    - '#B7BDE0'
+    - '#4E5C94'
+  rhythmicContrast: 0.2741936
+name: packetgreens.com
